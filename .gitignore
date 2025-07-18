@@ -1,0 +1,3 @@
+#Directory Exclusions
+/books
+/__pycache__
